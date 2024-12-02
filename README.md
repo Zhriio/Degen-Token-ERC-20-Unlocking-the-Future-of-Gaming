@@ -19,11 +19,11 @@ Make sure your Metamask is also installed and fully configured to be connected t
 After the deployment, you can finally interact with the functions inside the contract.
 
 ### Contract functionalities
-Minting New Tokens: The owner can mint tokens and distribute them to the players. 
-Token Transfer: Players, as token holders, can transfer tokens to other players.
-Token Redemption: Token holders can exchange their tokens for items available in the in-game store.
-Balance Inquiry: Token holders should be able to see their token balance.
-Token Burning: Token holders can burn unwanted tokens they own.
+- **Minting New Tokens**: The owner can mint tokens and distribute them to the players. 
+- **Token Transfer**: Players, as token holders, can transfer tokens to other players.
+- **Token Redemption**: Token holders can exchange their tokens for items available in the in-game store.
+- **Balance Inquiry**: Token holders should be able to see their token balance.
+- **Token Burning**: Token holders can burn unwanted tokens they own.
 
 ## Authors
 Lance Benedict F. Feticio
